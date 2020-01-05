@@ -1,5 +1,4 @@
----
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/user/public_html/
+    - export DEPLOYPATH=/home/jama2864/learn-javascript.maximejacquet.fr/
     - /bin/cp -R images $DEPLOYPATH
