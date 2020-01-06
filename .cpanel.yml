@@ -1,4 +1,5 @@
+---
 deployment:
-  tasks:
-    - export DEPLOYPATH=/home/jama2864/learn-javascript.maximejacquet.fr/
-    - /bin/cp -R images $DEPLOYPATH
+tasks:
+  - export DEPLOYPATH=/home/jama2864/learn-javascript.maximejacquet.fr/
+  - /bin/cp -R * $DEPLOYPATH
