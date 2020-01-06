@@ -1,30 +1,15 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-    <link
-      href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
-      rel="stylesheet"
-      integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh"
-      crossorigin="anonymous"
-    />
-    <title>Learn Javascript step by step</title>
-  </head>
-  <body >
-
-    <div class="container">
+<?php include('../head.php') ?>
       <br>
       <div class="row align-items-center"">
         <h1 class="col-md-8">
-          Loop and Conditions
+          Variables and Opérations
         </h1>
-        <a href="../index.html" class="primary col-md-2">Go summary</a>
+        <a href="../index.php" class="primary col-md-2">Go summary</a>
       </div>
+
       <br>
       <div class="row">
-        <!-- <h3>
+        <h3 class="col-md-12">
           <hr />
           1- créer 2 variables test1 & test2 qui ont pour valeur "Ceci est une
           variable" et 12000
@@ -45,16 +30,14 @@
           <hr />
           5- Converir les variables suivante dans leur type par défauts
         </h3>
-        <hr /> -->
       </div>
-    </div>
     <script
       type="text/javascript"
-      src="./../lesson1/loop-and-conditions.js"
+      src="./../lesson1/variables-and-operation.js"
     ></script>
     <script
       type="text/javascript"
-      src="./../lesson1/loop-and-conditions.solution.js"
+      src="./../lesson1/variables-and-operation.solution.js"
     ></script>
-  </body>
-</html>
+
+    <?php include('../footer.php') ?>
