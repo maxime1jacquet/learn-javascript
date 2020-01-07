@@ -35,13 +35,10 @@
   </div>
 </div>
 
-<script
-type="text/javascript"
-src="./../lesson1/statistics-result-dice.js"
-></script>
-<script
-type="text/javascript"
-src="./../lesson1/statistics-result-dice.solution.js"
-></script>
 
-<?php include('../footer.php') ?>
+<?php 
+$lesson = 1;
+$scriptName = "statistics-result-dice";
+include('../scripts-import.php');
+include('../footer.php');
+?>

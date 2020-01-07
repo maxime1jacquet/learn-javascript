@@ -11,13 +11,10 @@
 
 <?php include('../go-console.php') ?>
 
-<script
-  type="text/javascript"
-  src="./../lesson1/variables-and-operation.js"
-></script>
-<script
-  type="text/javascript"
-  src="./../lesson1/variables-and-operation.solution.js"
-></script>
 
-<?php include('../footer.php') ?>
+<?php 
+$lesson = 1;
+$scriptName = "variables-and-operation";
+include('../scripts-import.php');
+include('../footer.php');
+?>

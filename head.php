@@ -14,6 +14,13 @@
   </head>
   <body>
     <br />
+    
+    <?php
+      $env = new stdClass();
+      $env->prod = false;
+    ?>
+
     <?php include('header.php') ?>
 
     <div class="container">
+

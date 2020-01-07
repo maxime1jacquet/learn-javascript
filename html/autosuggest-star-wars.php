@@ -17,13 +17,10 @@
   </div>
 
 </div>
-<script
-type="text/javascript"
-src="./../lesson1/autosuggest-star-wars.js"
-></script>
-<script
-type="text/javascript"
-src="./../lesson1/autosuggest-star-wars.solution.js"
-></script>
 
-<?php include('../footer.php') ?>
+<?php 
+$lesson = 1;
+$scriptName = "autosuggest-star-wars";
+include('../scripts-import.php');
+include('../footer.php');
+?>

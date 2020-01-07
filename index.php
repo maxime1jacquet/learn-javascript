@@ -14,10 +14,10 @@
         <a href="./html/loop-and-conditions.php">Boucle et Conditions</a>
       </li>
       <li>
-        <a href="">Fonction et fonction natives</a>
+        <a href="./html/function-native-function.php">Fonction et fonction natives</a>
       </li>
       <li>
-        <a href="">Ajax / REST</a>
+        <a >Ajax / REST</a>
       </li>
     </ul>
   </div>
