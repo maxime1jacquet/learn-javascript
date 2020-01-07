@@ -9,8 +9,13 @@
 <br>
 <div class="row">
   
-  <div class="col-md-12">
+  <div class="col-md-4">
+    <h4>Rechercher un personnage : </h4>
+  </div>
+  <div class="col-md-8">
     <input type="text" id="search" class="" placeholder="han solo"/>
+  </div>
+  <div class="col-md-12">
     <br>
     <div id="result"></div>
     <div id="load"></div>
