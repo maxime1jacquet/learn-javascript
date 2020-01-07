@@ -28,7 +28,7 @@
         <a href="./html/heads-or-tails.php">Pile où face</a>
       </li>
       <li href="">
-        <a href="./html/statistics-result-dice-creation-gauss-curve.php">Statistiques des résultats d'un dés et création de la courbe de gauss</a>
+        <a href="./html/statistics-result-dice.php">Statistiques des résultats d'un dés</a>
         
       </li>
     </ul>
@@ -70,7 +70,7 @@
   </div>
 </div>
 
-<!-- ### lesson 2 : **es6** - Variables let, const - Compilateur
+<!-- https://htmlcheatsheet.com/js/ ### lesson 2 : **es6** - Variables let, const - Compilateur
 (webpack babel) - array methodes (map, filter, reduce, indexOf, spred..) -
 arrow functions - class **Do Before next step** : - heads or tails -
 Statistics of a dice, then creation of the gauss curve ### lesson 3 :
