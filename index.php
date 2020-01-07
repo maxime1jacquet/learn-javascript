@@ -27,9 +27,11 @@
       <li>
         <a href="./html/heads-or-tails.php">Pile où face</a>
       </li>
-      <li href="">
+      <li>
         <a href="./html/statistics-result-dice.php">Statistiques des résultats d'un dés</a>
-        
+      </li>
+      <li>
+        <a href="./html/autosuggest-star-wars.php">Autosuggest star wars</a>
       </li>
     </ul>
   </div>
