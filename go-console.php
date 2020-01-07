@@ -1,0 +1,1 @@
+<div class="alert alert-primary">Ouvrir la console JavaScript</div>
