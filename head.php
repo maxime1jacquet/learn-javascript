@@ -13,7 +13,6 @@
     <title>Learn Javascript step by step</title>
   </head>
   <body>
-    <br />
     
     <?php
       $env = new stdClass();
@@ -22,5 +21,5 @@
 
     <?php include('header.php') ?>
 
-    <div class="container">
+    <div class="container" style="min-height:70vh;">
 
