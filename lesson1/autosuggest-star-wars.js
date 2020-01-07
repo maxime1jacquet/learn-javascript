@@ -12,9 +12,8 @@ var result = document.getElementById('result');
 // ---------------------------------------------------------
 // TODO : UNE FOIS QUE L'AUTOSUGGEST FONCTIONNE
 // 1- ajouter un timer pour ne pas harceler l'API à chaque changement (utiliser des calbacks javascript)
+function debounceTime() {}
+
 // 2- afficher une information lors chargement
-
-function debounceTime(calback, value, time = 400) {}
-
 var load = document.getElementById('load');
 function loader() {}
