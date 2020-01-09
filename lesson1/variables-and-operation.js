@@ -40,3 +40,11 @@ var converToDate2 = 1578085599;
 
 // ------------------------------------------------------------
 // 11- ajouter un nouveau fruit dans cette object
+
+// ------------------------------------------------------------
+// 12- creer une variable qui est égal à 0
+
+// ------------------------------------------------------------
+// 13- donner 3 moyens de faire : "+1" à cette variable
+
+// 14- donner 3 moyens de faire : "-1" à cette variable

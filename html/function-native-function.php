@@ -10,10 +10,18 @@
 <div class="row">
   
   <div class="col-md-12">
+  <button id="toScroll">Je scroll de 100px</button>
   </div>
 
 </div>
 
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+<style>
+  * {
+    color: var(--colorTxt)
+  }
+</style>
 <?php 
 $lesson = 1;
 $scriptName = "function-native-function";
