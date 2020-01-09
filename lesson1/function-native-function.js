@@ -40,7 +40,7 @@
 // WINDOW
 // 5- afficher la taille x-y du navigateur
 // 6- Avec la taille de la page web => en déduire le pourcentage afficher par le navigateur (arrondie à un chiffre après la virgule)
-// 7- utiliser le précédent écouteur et faire un scroll de 100px dans la page
+// 7- utiliser le précédent écouteur et faire un scroll avec animation de 100px dans la page
 
 // ---------------------------------------------------------
 // JSON
