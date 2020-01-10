@@ -1,4 +1,4 @@
-// on réutilise les fruits
+// on réutilise les fruits de la leçon 1
 var fruitsArray = ['pomme', 'banane', 'fraise', 'clémentine'];
 var fruitsObject = {
   pomme: 'Tarte aux pommmes',
@@ -12,11 +12,11 @@ var fruitsObject = {
 // ---------------------------------------------------------
 
 // ------------------------------------------------------------
-// 1- AFFICHER DANS LA CONSOLE LE 2 ÈME ÉLÉMENT DU TABLEAU & LE 2 ÈME ÉLÉMENT DE L'OBJECT
+// 1- AFFICHER DANS LA CONSOLE LE 2ÈME ÉLÉMENT DU TABLEAU FRUIT ET LE 2ÈME ÉLÉMENT DE L'OBJECT
 
 // ------------------------------------------------------------
 // 2- AFFICHER GRÂCE À DES BOUCLES LES FRUITS DE L'ARRAY
-// white
+// while
 // for
 // for of
 // foreach
@@ -36,10 +36,8 @@ var fruitsObject = {
 // ---------------------------------------------------------
 
 // ------------------------------------------------------------
-// 6- CES CONDITIONS SONT-T'ILS VRAI OU FAUSSE, POURQUOI ?
+// 6- CES CONDITIONS SONT-T'ELLES VRAIES OU FAUSSE, POURQUOI ?
 
-if (true) {
-}
 if (!false) {
 }
 if (false === false) {
@@ -59,8 +57,6 @@ if (1) {
 if (!0) {
 }
 if (12 == '12') {
-}
-if (12 === '12') {
 }
 if ('ceci est une string de test') {
 }
@@ -91,6 +87,6 @@ if (maCondition) {
 // 2 la syntaxe est simple c'est une question d'habitude
 var resultat = maCondition ? 'condition est vrai !' : 'condition est fausse !';
 
-// 7- (GRÂCE AU TERNAIRE) AFFICHER "BANANA SPLIT" DANS LA CONSOLE SI LA STRING "BANANE" EXISTE DANS LE TABLEAU fruitsArray
+// 7- (GRÂCE AU TERNAIRE) AFFICHER "Banana split" DANS LA CONSOLE SI LA STRING "banane" EXISTE DANS LE TABLEAU fruitsArray
 
 // 8- FAIRE UN EXEMPLE DE SWITCHCASE

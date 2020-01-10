@@ -1,21 +1,19 @@
 // ------------------------------------------------------------
 // 1- créer 2 variables test1 & test2 qui ont pour valeur "Ceci est une variable" et 12000
 
-// console.log("resultat exo 1 : ", test1, test2);
+// ------------------------------------------------------------
+// 2- inverser les valeurs de ces variables (grâce à une autre variable temporaire)
+// console.log('resultat exo 2 : ', test1, test2);
 
 // ------------------------------------------------------------
-// 2- inverser les valeur de ces variables
-
-// console.log("resultat exo 2 : ", test1, test2);
-
-// ------------------------------------------------------------
-// 3- additionner test1 et test2 et tester le resultat
+// 3- additionner test1 et test2 et voir le resultat
+// console.log('resultat exo 3 : ', testTmp2);
 
 // ------------------------------------------------------------
 // 4- utiliser typeof pour connaitre le type de cette nouvelle variable
 
 // ------------------------------------------------------------
-// 5- Converir les variables suivante dans leur type par défauts
+// 5- Convertir les variables suivantes dans leurs types par défaut
 
 var converToNumber1 = '1267317';
 var converToBoolean1 = 'TRUE';
@@ -30,21 +28,21 @@ var converToDate2 = 1578085599;
 // 7- Construire un object de 2 manières différentes
 
 // ------------------------------------------------------------
-// 8- Crer un nouveau tableau avec 3 fruits
+// 8- Créer un nouveau tableau avec 3 nom de fruits
 
 // ------------------------------------------------------------
-// 9- Ajouter 1 nouveau fruit dans ce tableau sans supprimer ou remplacer les autres
+// 9- Ajouter 1 nouveau fruit dans ce tableau, sans supprimer ou remplacer les autres
 
 // ------------------------------------------------------------
-// 10- Creer un object avec un fruit comme clé et un desert contenant ce fruit comme valeur
+// 10- Créer un object avec un fruit comme clé et un dessert contenant ce fruit comme valeur
 
 // ------------------------------------------------------------
-// 11- ajouter un nouveau fruit dans cette object
+// 11- Ajouter un nouveau fruit dans cet object
 
 // ------------------------------------------------------------
-// 12- creer une variable qui est égal à 0
+// 12- Créer une nouvelle variable qui est égal à 0
 
 // ------------------------------------------------------------
-// 13- donner 3 moyens de faire : "+1" à cette variable
+// 13- Donner 3 moyens de faire : "+1" à cette variable
 
-// 14- donner 3 moyens de faire : "-1" à cette variable
+// 14- Donner 3 moyens de faire : "-1" à cette variable
