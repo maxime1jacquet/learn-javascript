@@ -20,6 +20,7 @@
     <br>
   </div>
 </div>
+
 <!-- lesson 1 -->
 <div class="row">
   <div class="col-md-6">
@@ -37,7 +38,10 @@
         <a href="./html/1-function-native-function.php">Fonction et fonction natives</a>
       </li>
       <li>
-        <a >Ajax / REST</a>
+        <a href="./html/1-localstorage.php">Local storage</a>
+      </li>
+      <li>
+        <a href="./html/1-ajax-rest.php">Ajax / REST</a>
       </li>
     </ul>
   </div>
@@ -80,11 +84,81 @@
   </div>
 </div>
 
-<!-- lesson 3 :
-**DOM** ### lesson 4 : **TypeScript** ### lesson 4 : **Angular** ###
-lesson 4 : **Rxjs** space in vader #### lesson 4 : **NodeJS** 
+<!-- lesson 3 -->
+<hr />
+<div class="row">
+  <div class="col-md-6">
+    <h2>leçon 3 : Le DOM</h2>
+    <ul>
+      <!-- <li><a>Todo</a></li> -->
+    </ul>
+  </div>
+  <div class="col-md-6">
+    <!-- <h4>Pour valider l'étape :</h4>
+    <ul>
+      <li>
+        <a>Todo</a>
+      </li>
+    </ul> -->
+  </div>
+</div>
 
-https://swapi.co/ 
--->
+<!-- lesson 4 -->
+<hr />
+<div class="row">
+  <div class="col-md-6">
+    <h2>leçon 4 : TypeScript</h2>
+    <ul>
+      <!-- <li><a>Todo</a></li> -->
+    </ul>
+  </div>
+  <div class="col-md-6">
+    <!-- <h4>Pour valider l'étape :</h4>
+    <ul>
+      <li>
+        <a>Todo</a>
+      </li>
+    </ul> -->
+  </div>
+</div>
+
+<!-- lesson 5 -->
+<hr />
+<div class="row">
+  <div class="col-md-6">
+    <h2>leçon 5 : Rxjs</h2>
+    <ul>
+      <!-- <li><a>Todo</a></li> -->
+    </ul>
+  </div>
+  <div class="col-md-6">
+    <!-- <h4>Pour valider l'étape :</h4>
+    <ul>
+      <li>
+        <a>space in vader</a>
+      </li>
+    </ul> -->
+  </div>
+</div>
+
+<!-- lesson 6 -->
+<hr />
+<div class="row">
+  <div class="col-md-6">
+    <h2>leçon 6 : Angular</h2>
+    <ul>
+      <!-- <li><a>Todo</a></li> -->
+    </ul>
+  </div>
+  <div class="col-md-6">
+    <!-- <h4>Pour valider l'étape :</h4>
+    <ul>
+      <li>
+        <a>Todo</a>
+      </li>
+    </ul> -->
+  </div>
+</div>
+
 
 <?php include('footer.php') ?>
