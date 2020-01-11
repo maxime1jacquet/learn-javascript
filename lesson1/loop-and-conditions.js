@@ -37,7 +37,19 @@ var fruitsObject = {
 
 // ------------------------------------------------------------
 // 6- CES CONDITIONS SONT-T'ELLES VRAIES OU FAUSSE, POURQUOI ?
+/*
+à savoir : 
 
+==    Egal à
+!=    Différent de
+===   Strictement Egal à
+!==   Strictement Différent de
+<     Inférieur à
+<=    Inférieur ou égal à
+>     Supérieur à
+>=    Supérieur ou égal à
+
+*/
 if (!false) {
 }
 if (false === false) {

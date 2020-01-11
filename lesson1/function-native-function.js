@@ -30,6 +30,7 @@
 // ---------------------------------------------------------
 // ECOUTEUR
 // 4- Ajouter 2 écouteur sur l'élément (click et keyup enter) qui appellent une nouvelle fonction
+// en javascript on peut faire des écouteurs personnalisés (faite le !)
 
 // ---------------------------------------------------------
 // MATH
@@ -64,3 +65,14 @@ var jsonString =
 
 // setTimeout;
 // setInterval;
+
+// ---------------------------------------------------------
+// innerHTMl
+// innerText
+
+// document.createAttribute
+// document.createElement
+// document.append
+
+// ---------------------------------------------------------
+// LOCAL STORAGE

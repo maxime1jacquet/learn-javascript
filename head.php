@@ -16,7 +16,7 @@
     
     <?php
       $env = new stdClass();
-      $env->prod = false;
+      $env->prod = true;
     ?>
 
     <?php include('header.php') ?>
