@@ -12,8 +12,8 @@
           <a href="https://openclassrooms.com/fr/courses/2984401-apprenez-a-coder-avec-javascript/2984431-3-2-1-codez">Première ligne de code</a>
         </li>
         <li>Cloner le repo <a target="_blank" href="https://github.com/maxime1jacquet/learn-javascript">learn-javascript</a> dans un serveur php local</li>
-        <li>Choisir une leçon, le fichier HTML de cette leçon se trouve dans le dossier "html"</li>
-        <li>Le fichier JavaScript correspondant se trouve dans le dossier : "lessonX"</li>
+        <li>Choisir une leçon, le fichier HTML de cette leçon se trouve dans le dossier "html" à la racine</li>
+        <li>Le fichier JavaScript correspondant se trouve dans le dossier : "lessonX" à la racine</li>
         <li>Faire les questions dans l'ordre du fichier JavaScript</li>
       </ul>
     </div>
