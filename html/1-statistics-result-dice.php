@@ -13,7 +13,7 @@
 
   <div class="col-md-12">
     <label for="jeu">Définir le nombre de lancer</label>
-    <input type="number" name="" id="jeu" value="5" min="0" max="10000000" >
+    <input type="number" name="" id="jeu" value="10" min="0" max="10000000" >
   </div>
 
   <div class="col-md-12">
