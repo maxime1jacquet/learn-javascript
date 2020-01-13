@@ -55,6 +55,9 @@
         <a href="./html/1-statistics-result-dice.php">Statistiques des résultats d'un dés</a>
       </li>
       <li>
+        <a href="./html/1-puissance-4.php">Puissance 4</a>
+      </li>
+      <li>
         <a href="./html/1-autosuggest-star-wars.php">Autosuggest star wars</a>
       </li>
     </ul>

@@ -45,4 +45,8 @@ var converToDate2 = 1578085599;
 // ------------------------------------------------------------
 // 13- Donner 3 moyens de faire : "+1" à cette variable
 
+// ------------------------------------------------------------
 // 14- Donner 3 moyens de faire : "-1" à cette variable
+
+// ------------------------------------------------------------
+// 15- construire un tableau à 2 dimensions
