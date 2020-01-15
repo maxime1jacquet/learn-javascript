@@ -75,6 +75,7 @@
       <li><a>Methodes sur les tableaux (map, filter, reduce, indexOf, spred..)</a></li>
       <li><a>Fonctions fléchées</a></li>
       <li><a>Les Classes</a></li>
+      <li><a href="./html/2-poo.php">La programmation orientée objet (POO)</a></li>
     </ul>
   </div>
   <div class="col-md-6">
