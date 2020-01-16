@@ -11,6 +11,7 @@
     <a class="col-md-2" href="https://twitter.com/maxime1jacquet" target="_blank">Me contacter</a>
   </div>
   <br><br>
+  
 </footer>
 </body>
 </html>
