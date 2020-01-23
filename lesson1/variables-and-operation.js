@@ -23,6 +23,7 @@ var converToDate2 = 1578085599000;
 
 // ------------------------------------------------------------
 // 6- Construire un tableau de 2 manières différentes
+// les affichers avec console.table
 
 // ------------------------------------------------------------
 // 7- Construire un object de 2 manières différentes
