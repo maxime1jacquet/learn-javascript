@@ -19,7 +19,7 @@ var converToNumber1 = '1267317';
 var converToBoolean1 = 'TRUE';
 var converToBoolean2 = 0;
 var converToDate1 = '07/12/12';
-var converToDate2 = 1578085599;
+var converToDate2 = 1578085599000;
 
 // ------------------------------------------------------------
 // 6- Construire un tableau de 2 manières différentes
