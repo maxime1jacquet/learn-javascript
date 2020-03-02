@@ -71,8 +71,7 @@
     <h2>leçon 2 : es6</h2>
     <ul>
       <li><a href="./html/2-variable-let-const.php">Variables let, const</></li>
-      <!-- <li><a>Compilateur (webpack, gulp, babel)</a></li> -->
-      <li><a>Methodes sur les tableaux (map, filter, reduce, indexOf, spred..)</a></li>
+      <li><a href="./html/2-array-methodes.php">Methodes sur les tableaux (map, filter, reduce, indexOf, spred..)</a></li>
       <li><a>Fonctions fléchées</a></li>
       <li><a>Les Classes</a></li>
       <li><a href="./html/2-poo.php">La programmation orientée objet (POO)</a></li>
